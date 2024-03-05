@@ -1,5 +1,6 @@
 # GO
 A "hello world" repo for students to practice / test with.
+This is the first test.
 
 ## What is this?
 This repo is simply a place holder for testing out github features for students in Digital Cultures. It can be cloned and edited without any serious consideration of things 'breaking.'
@@ -10,8 +11,6 @@ This repo is simply a place holder for testing out github features for students 
 1. Go to "Issues" above.
 2. Find the "Can't do this alone" issue.
 3. Add a comment with your username, so I will have a record of everyone's usernames.
-
-_Break while instructor adds everyone_
 
 ### Second Task
 1. Select someone from your group to create a repository for your group.
