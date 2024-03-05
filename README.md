@@ -22,3 +22,6 @@ This repo is simply a place holder for testing out github features for students 
 1. Go to the "Projects" area.
 2. Create a new project for your group associated with the repo you just created.
 3. Develop a preliminary outline for how you are going to build your project (to be completed by following week).
+
+### Fourth Task
+Go back to the beginning and figure out why VSCode and Github GUI are acting so badly.
