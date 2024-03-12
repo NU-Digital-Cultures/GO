@@ -15,7 +15,7 @@ But the live code might be the most useful in the moment, this is a real case of
 
 
 ## Working with mermaid live
-::: mermaid
+``` mermaid
 mindmap
   root((Collaboration:<br/> What is it?))
     Academic
@@ -40,7 +40,7 @@ mindmap
         Zotero
         GitHub
         
-:::
+```
 
 # To Do by End of Class
 
