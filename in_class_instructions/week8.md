@@ -8,28 +8,28 @@ This week is all about acknowledging issues:
 
 ## Technical Problems
 
-1 Did you follow the instructions?
-2 How do you explain the problem?
-3 Can you find an explanation in the documentation?
-4 What do search engines reveal?
+1. Did you follow the instructions?
+2. How do you explain the problem?
+3. Can you find an explanation in the documentation?
+4. What do search engines reveal?
     * Youtube
     * stack exchange
     * reddit
     * software specific forums
 
-5 Who else can you ask?
+5. Who else can you ask?
 
 ## Conceptual Problems
 
-1 Read!
-2 Write.
-3 Get feedback.
-4 Repeat.
+1. Read!
+2. Write.
+3. Get feedback.
+4. Repeat.
 
 ## Interpersonal 
-1 _Why_ is something a problem? Can you articulate it?
-2 What do you want the resolution to be and why?
-3 Who do you need to talk with about it?
+1. _Why_ is something a problem? Can you articulate it?
+2. What do you want the resolution to be and why?
+3. Who do you need to talk with about it?
 
     i.e. Is someone not doing something the way you would? What are the consequences, can you live with them (give up some control) or do you need something to change for the sake of the project (assert accountability)?
 
